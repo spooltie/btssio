@@ -5,7 +5,7 @@
 - **Cadre de réalisation :** [ ] Stage 1  [ ] Stage 2  [ ] Atelier de professionnalisation  [x] Projet de cours
 - **Période de réalisation :** Décembre 2025 *(mise en ligne du code le 18/12/2025)*
 - **Modalité :** [ ] Individuel  [x] En équipe (3 personnes : Benjamin Bastide, Yaëlle Pélerin, Mathéo Catalan)
-- **Localisation / Organisation cliente :** Marque fictive ORA Energy (projet pédagogique) — [À compléter : établissement]
+- **Localisation / Organisation cliente :** Marque fictive ORA Energy (projet pédagogique)
 
 ## 2. CONTEXTE ET OBJECTIFS
 - **Contexte organisationnel :** ORA Energy est une marque fictive de boisson énergisante naturelle, bio et française, positionnée comme une alternative saine aux boissons énergisantes classiques. La gamme compte trois saveurs : Émeraude, Ruby et Améthyste. La marque n'avait ni identité graphique ni présence en ligne.
@@ -33,7 +33,7 @@
      - Responsive avec des points de rupture à 767 px et 1 024 px.
      - Formulaire de contact avec champs obligatoires (`required`) et type `email` contrôlé par le navigateur.
   4. *Mise en ligne et vérification :* Dépôt du code sur GitHub, publication sur GitHub Pages, puis contrôle de l'affichage sur les trois formats d'écran.
-- **Gestion des imprévus / Incidents rencontrés :** [À compléter : une vraie difficulté rencontrée et la solution trouvée, par exemple un écart entre la maquette et le rendu, ou un problème d'affichage sur mobile]
+- **Gestion des imprévus / Incidents rencontrés :** Manque d'investissement de certains membre du groupe ayant très peux de temps pour réaliser ce projet, provoquant une surcharge personnel pour rendre le projet dans les temps.
 
 ## 4. RÔLE ET CONTRIBUTION PERSONNELLE
 - **Responsabilité précise :** Développeur web et co-designer. Responsable de toute l'intégration du site et co-auteur de la maquette.
@@ -42,15 +42,15 @@
   - Développement intégral des 4 pages en HTML/CSS/JS.
   - Mise en place du responsive et du menu burger mobile.
   - Gestion du dépôt GitHub et publication sur GitHub Pages.
-- **Répartition dans l'équipe :** Yaëlle Pélerin (design), Mathéo Catalan (marketing).
+- **Répartition dans l'équipe :** Benjamin Bastide (développement & design), Yaëlle Pélerin (design), Mathéo Catalan (marketing).
 
 ## 5. LIVRABLES ET PREUVES ASSOCIÉES
 - Site en ligne : https://spooltie.github.io/OraEnergy/
 - Code source versionné : https://github.com/spooltie/OraEnergy
 - Page de présentation du projet : https://www.benjaminbastide.fr/ora-energy/
-- Maquettes Figma des 4 pages, à exporter en images dans `preuves/` : [À ajouter]
-- Charte graphique (palette et typographies), à mettre dans `preuves/` : [À ajouter]
-- Captures du site sur bureau, tablette et mobile, à mettre dans `preuves/` : [À ajouter]
+- Maquettes Figma des 4 pages, à exporter en images dans `preuves/Figma` : 
+- Charte graphique (palette et typographies), à mettre dans `preuves/Charte Graphique` :
+- Captures du site sur bureau, tablette et mobile, à mettre dans `preuves/Captures` :
 
 ## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
 - [ ] **B1.1 — Gérer le patrimoine informatique**
@@ -58,7 +58,7 @@
 - [x] **B1.3 — Développer la présence en ligne :** Création complète de la présence web d'une marque : charte graphique, site vitrine responsive aux normes HTML/CSS, mise en ligne (savoir S12).
 - [x] **B1.4 — Travailler en mode projet :** Projet mené à trois avec des rôles répartis (design, développement, marketing), une phase de conception Figma avant le développement et un code versionné sous Git.
 - [x] **B1.5 — Mettre à disposition des utilisateurs un service informatique :** Publication du site sur GitHub Pages et vérification de son fonctionnement sur différents terminaux.
-- [ ] **B1.6 — Organiser son développement professionnel** *(le projet est valorisé sur le portfolio personnel benjaminbastide.fr : à cocher si ton enseignant l'accepte)*
+- [x] **B1.6 — Organiser son développement professionnel**
 
 ## 7. BILAN RÉFLEXIF ET AUTO-ÉVALUATION
 - **Points forts :** Site fidèle à la maquette, léger (aucun framework) et responsive sur trois formats. Identité visuelle cohérente du logo jusqu'aux effets de survol. Menu mobile réalisé sans JavaScript.
